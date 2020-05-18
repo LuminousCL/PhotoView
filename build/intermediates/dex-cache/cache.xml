@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/guoweili/.android/build-cache/ba6f8ffa1ba91ecb6ec5086cd3b461970ab20918/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/guoweili/Downloads/PhotosWall-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54c9774a7a13dad174d989ed32d84871f2d3e0a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guoweili/.android/build-cache/dac4cf4e8b1e65b98f53d3e53d6298515d04dd16/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/guoweili/Downloads/PhotosWall-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5a77340a85da7927b0b4d88ed29ab3d7b71c8f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guoweili/Downloads/PhotosWall-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/guoweili/Downloads/PhotosWall-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ec4acff8c8b31147bb24ebf56f23692e4474ba6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guoweili/Downloads/PhotosWall-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b383d40181c6e84b5b231fa2c323640778b8e74">
+        <dex dex="/Users/guoweili/Downloads/PhotosWall-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da640fa44d8548447f93932ed8e6d4d8d448ca0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guoweili/.android/build-cache/2337bf0a1addbf14f626091f9a085ad78f32aa28/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/guoweili/Downloads/PhotosWall-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_659faf276816bc9bab367d5a63f56d51a61f21b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guoweili/.android/build-cache/c82194e20714e27751b754158169bda12d007ee3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/guoweili/Downloads/PhotosWall-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71ce9bca81e201eadaeedc4c59f2d6076202831f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guoweili/.android/build-cache/d546f7697c572a578332ce33463482ae38d1324d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/guoweili/Downloads/PhotosWall-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3173870e760732849eb42c49edde3aa9e22612f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guoweili/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/guoweili/Downloads/PhotosWall-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_83b69f4ed955cdb168279ba271bb1a193a266e63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guoweili/.android/build-cache/2d7802eaac73c280c80020686aac65c8712375d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/guoweili/Downloads/PhotosWall-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbcada660067def2a55431acc7b3867a3fd5913c/classes.dex" />
+    </item>
+
+</items>

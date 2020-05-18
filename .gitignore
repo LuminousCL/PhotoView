@@ -1,0 +1,7 @@
+/bin
+/gen
+
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/classes/
