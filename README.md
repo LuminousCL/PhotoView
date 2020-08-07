@@ -11,7 +11,7 @@
 
 **预览:** 
 
-<img src="imgs/1.png" alt="0." style="zoom:40%;" />
+<img src="imgs/1.png" alt="0." style="zoom:30%;" />
 
 
 
@@ -21,7 +21,7 @@
 
 **1. activity_main.xml** 用来设计图片加载demo的基本布局：
 
-<img src="imgs/2.png" alt="0." style="zoom:40%;" />
+<img src="imgs/2.png" alt="0." style="zoom:30%;" />
 
 每页显示24个item，设置有两个按键：ADD和CLEAR；
 
@@ -29,7 +29,7 @@
 
 **2.photo_layout_xml:**
 
-<img src="imgs/3.png" alt="0." style="zoom:40%;" />
+<img src="imgs/3.png" alt="0." style="zoom:30%;" />
 
 显示app的基本布局；
 
@@ -37,19 +37,19 @@
 
 **3.AndroidManifest.xml:**
 
-<img src="imgs/4.png" alt="0." style="zoom:40%;" />
+<img src="imgs/4.png" alt="0." style="zoom:30%;" />
 
 
 
 **4.MainActivity.java:**
 
-<img src="imgs/5.png" alt="0." style="zoom:40%;" />
+<img src="imgs/5.png" alt="0." style="zoom:30%;" />
 
 
 
 **5.PhotoViewAdapter.java:**
 
-<img src="imgs/6.png" alt="0." style="zoom:40%;" />
+<img src="imgs/6.png" alt="0." style="zoom:30%;" />
 
 
 
