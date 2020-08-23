@@ -1,5 +1,6 @@
-![Version](https://img.shields.io/badge/Version-2.0.1-blue)
+![Version](https://img.shields.io/badge/version-2.0.1-blue)
 ![Version](https://img.shields.io/badge/milestones-2-brightgreen)
+![Version](https://img.shields.io/badge/cooperation-Tecent-red)
 
 # PhotoView
 
